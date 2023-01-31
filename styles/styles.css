@@ -5,3 +5,9 @@
 ion-icon{
     color: black;
 }
+#call, #mail{
+    font-size: large;
+}
+#logo{
+    font-size: x-large;
+}
