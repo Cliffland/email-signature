@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
 }
-ion-icon{
+.globe{
     color: black;
 }
 #call, #mail{
@@ -10,4 +10,13 @@ ion-icon{
 }
 #logo{
     font-size: x-large;
+}
+.linkedin{
+    color: #0072b1;
+}
+.twitter{
+    color: #00acee;
+}
+.facebook{
+    color: #3b5998;
 }
