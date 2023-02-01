@@ -11,13 +11,21 @@
 }
 #logo{
     font-size: x-large;
+    padding: 5px;
 }
 .linkedin{
     color: #0072b1;
+    padding: 5px;
 }
 .twitter{
     color: #00acee;
+    padding: 5px;
 }
 .facebook{
     color: #3b5998;
+    padding: 5px;
+}
+#location{
+    background-color: #374e04;
+    color: white;
 }
